@@ -4,7 +4,8 @@
   "description": "express js project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node srs/app/js"
   },
   "author": "Harshil Vaghasiya",
   "license": "ISC",
